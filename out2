@@ -1,0 +1,19 @@
+total 332
+drwxrwx--- 3 malak malak  4096 Oct 25 16:08 .
+drwxrwxr-x 4 malak malak  4096 Oct 25 09:09 ..
+-rwxrwx--- 1 malak malak  6839 Oct 25 16:08 command.cc
+-rwxrwx--- 1 malak malak  5823 Oct 24 15:50 command.cc.save
+-rw-rw-r-- 1 malak malak  1024 Oct 25 14:20 .command.cc.swp
+-rwxrwx--- 1 malak malak  2124 Oct 25 15:06 command.h
+-rw-rw-r-- 1 malak malak 36472 Oct 25 16:08 command.o
+drwxrwx--- 2 malak malak  4096 Oct 24 15:03 examples
+-rw-rw-r-- 1 malak malak 45241 Oct 25 16:08 lex.yy.c
+-rw-rw-r-- 1 malak malak 44584 Oct 25 16:08 lex.yy.o
+-rwxrwx--- 1 malak malak   338 Oct 20  2022 Makefile
+-rw-rw-r-- 1 malak malak     0 Oct 25 16:08 out
+-rwxrwxr-x 1 malak malak 70808 Oct 25 16:08 shell
+-rwxrwx--- 1 malak malak   568 Oct 25 16:04 shell.l
+-rwxrwx--- 1 malak malak  2525 Oct 25 16:06 shell.y
+-rw-rw-r-- 1 malak malak 45433 Oct 25 16:08 y.tab.c
+-rw-rw-r-- 1 malak malak  3200 Oct 25 16:08 y.tab.h
+-rw-rw-r-- 1 malak malak 29248 Oct 25 16:08 y.tab.o
